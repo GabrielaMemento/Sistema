@@ -14,7 +14,7 @@ function test_input($data) {
   return $data;
 }
 ?>
-//centraliza
+
 <center>
 <h1>Teste</h1>
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  

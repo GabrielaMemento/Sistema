@@ -10,6 +10,12 @@ atingir 10 compras para receber um brinde.O usuário previsto do sistema é o pr
 ## Protótipo
 
 ## Tecnologias Utilizadas
+  -HTTP
+  -CSS
+  -JAVASCRIPT
+  -PHP
+  -MYSQL
+  
 
 ## Padrões
 

@@ -16,16 +16,3 @@ atingir 10 compras para receber um brinde.O usuário previsto do sistema é o pr
   -PHP
   -MYSQL
   
-
-## Padrões
-
-### - Padrão de Codificação
-
-- Todos os nomes de váriaveis devem ser escritas no padrão camelCase;
-- Todos os nomes dos métodos devem ser escritos no padrão camelCase;
-- Todos os nomes das classes devem ser escritos no padrão PascalCase;
-
-### - Documentação 
-
-- O código deve ser escrito de maneira clara;
-- O código deve ser comentado;

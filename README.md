@@ -2,9 +2,9 @@
 
 ## Membros do grupo
 
--Gabriela Silva Memento
+- Gabriela Silva Memento
 
--Lislaila Tarsila Pereira
+- Lislaila Tarsila Pereira
 
 ## Descrição do Problema
 

@@ -15,14 +15,14 @@ O sistema tem como objetivo controlar as vendas feitas. O sistema será dividido
 
 ## Usuários previstos
 
--Adimin
+- Adimin
 
 ## Protótipo
 
 ## Tecnologias Utilizadas
-  -HTML 5
-  -CSS 3
-  -JAVASCRIPT
-  -PHP 7.2
-  -MYSQL 8.0
+  - HTML 5
+  - CSS 3
+  - JAVASCRIPT
+  - PHP 7.2
+  - MYSQL 8.0
   

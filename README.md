@@ -1,10 +1,20 @@
 # Sistema de Controle de um Sebo
 
-## Descrição 
+## Membros do grupo
 
-Na cidade há um tradicional sebo que está com dificuldades para controlar seu estoque e vendas dos seus livros. O objetivo do sistema é proporcionar
-uma interface que possa controlar o estoque de livros, as vendas e verificar os clientes do sebo. O sistema contará com um 
-login de um único usúario. Que será capaz de cadastrar, excluir, alterar e buscar por livros, clientes ou mesmo vendas.O usuário previsto do sistema é o proprietário do sebo.
+-Gabriela Silva Memento
+-Lislaila Tarsila Pereira
+
+## Descrição do Problema
+
+Um sebo está com dificuldades para controlar suas vendas.
+
+## O Sistema
+O sistema tem como objetivo controlar as vendas feitas. O sistema será dividido em três seções livro, venda e cliente. Onde o usuário poderá  cadastrar, alterar, excluir e buscar nas três seções.
+
+## Usuários previstos
+
+-Adimin
 
 ## Protótipo
 

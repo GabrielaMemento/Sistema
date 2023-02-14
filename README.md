@@ -15,7 +15,7 @@ O sistema tem como objetivo controlar as vendas feitas. O sistema será dividido
 
 ## Usuários previstos
 
-- Adimin
+- Admin
 
 ## Regras e Padrões de Uso
 - Os commits precisam ter mensagens padronizadas, tendo descrição do que foi feito.

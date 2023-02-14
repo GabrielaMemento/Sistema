@@ -17,6 +17,21 @@ O sistema tem como objetivo controlar as vendas feitas. O sistema será dividido
 
 - Adimin
 
+## Regras e Padrões de Uso
+- Os commits precisam ter mensagens padronizadas, tendo descrição do que foi feito.
+- Os codigos devem ficar em uma pasta separada dos documentos.
+- As classes que controlam o CRUD devem ficar em uma pasta separada.
+
+## Boas Práticas de Programação
+- As variáveis deveram ser declaradas uma em cada linha.
+- As variáveis devem ser declaradas no início da função.
+- Será aplicado o CLEAN CODE.
+- Os contadores, somatório devem ser inicializados.
+- Uma linha será pulada depois da declaração das variáveis.
+- Nome de variáveis e funções devem ser intuitivos.
+
+
+
 ## Protótipo
 
 ## Tecnologias Utilizadas

@@ -42,5 +42,5 @@ O sistema tem como objetivo controlar o estoque e as vendas realizadas no sebo. 
   - CSS 3
   - JAVASCRIPT
   - PHP 7.2
-  - MYSQL 8.0
+  - MYSQL 8.0 
   

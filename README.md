@@ -1,4 +1,4 @@
-# Sistema de Controle de um Sebo
+# Sistema de Controle de um Sebo 
 
 ## Membros do grupo
 

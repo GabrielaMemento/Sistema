@@ -29,10 +29,10 @@ O sistema tem como objetivo controlar o estoque e as vendas realizadas no sebo. 
 - Será usado o padrão de projeto MVC (Model-View-Controller).
 
 ## Estrutura de Diretório
- -Padrões Adotados
- -Requisitos
- -Códigos
- -Bando de dados
+- Padrões Adotados
+- Requisitos
+- Códigos
+- Bando de dados
 
 ## Protótipo
 - Figma: https://www.figma.com/file/kan7HFLn1HJeP5P8HhKtuU/TrabalhoEngenharia?node-id=0%3A1&t=XSFJfoE77sKDL6K6-1

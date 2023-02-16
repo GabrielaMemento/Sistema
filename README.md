@@ -25,9 +25,9 @@ O sistema tem como objetivo controlar o estoque e as vendas realizadas no sebo. 
 - Nome de variáveis e funções devem ser intuitivos.
 - Deve ser usado o padrão CamelCase para definir o nome das variáveis.
 - As variáveis devem ser declaradas no início de cada função.
-- O código deve ser comentado
-- A indentação do código será feita utilizando o tab
-- Será usado o padrão de projeto MVC (Model-View-Controller)
+- O código deve ser comentado.
+- A indentação do código será feita utilizando o tab.
+- Será usado o padrão de projeto MVC (Model-View-Controller).
 
 ## Estrutura de Diretório
 - Padrões Adotados
@@ -35,8 +35,7 @@ O sistema tem como objetivo controlar o estoque e as vendas realizadas no sebo. 
 - Códigos
 
 ## Protótipo
-- Figma: https://www.figma.com/file/kan7HFLn1HJeP5P8HhKtuU/TrabalhoEngenharia?node-id=0%3A1&t=
-XSFJfoE77sKDL6K6-1
+- Figma: https://www.figma.com/file/kan7HFLn1HJeP5P8HhKtuU/TrabalhoEngenharia?node-id=0%3A1&t=XSFJfoE77sKDL6K6-1
 
 ## Tecnologias Utilizadas
   - HTML 5

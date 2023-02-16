@@ -14,7 +14,6 @@ O dono de um sebo estava com dificuldades para controlar suas vendas e estoque, 
 O sistema tem como objetivo controlar o estoque e as vendas realizadas no sebo. O sistema será dividido em três seções livros, vendas e clientes. Onde o adim poderá realizar operações de cadastrar, alterar, excluir e buscar dados nas três seções.
 
 ## Usuários previstos
-
 - Admin
 
 ## Regras e Padrões de Uso

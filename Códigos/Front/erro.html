@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erro</title>
+    <link rel="stylesheet" href="erro.css">
+</head>
+<body>
+    <div class="erro">
+        <Typography variant="subtitle1" component="div">
+          <h3 id="mensagem"> ERRO </h3>
+        </Typography>
+        <br />
+        <Button variant="outlined" onClick={handleClickOpen } id="botaoerro">
+         OK
+        </Button>
+        <SimpleDialog
+         selectedValue={selectedValue}
+         open={open}
+         onClose={handleClose}
+      />
+    </div>
+
+</body>
+</html>

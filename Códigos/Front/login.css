@@ -1,0 +1,120 @@
+/*CSS para apresentação e aplicação de estilos
+A lista do seletor de classe tem um prefixo de período,
+enquanto o seletor de ID é msg e tem um prefixo de 
+sinal de libra.
+Os nomes são arbitrários, desde que eles correspondam ao
+ que você definiu no HTML.
+*/
+
+/* O seletor de :root representa o 
+elemento <html> na página HTML.
+Para esse tipo de tarefa, uma melhor prática é definir 
+um conjunto de variáveis CSS globais no elemento :root.
+Aqui, você define três variáveis de cor anexadas à raiz
+da página.*/
+:root {
+    --rose: rgba(253, 12, 12, 0.2);
+    --rose2: #f2e4ecdb;
+    --black: #000000;
+    --laranja:#FD460C;
+    --branco:#FFFFFF;
+    --verde:#0CFDFD;
+
+}
+
+* {
+    color: var(--fontColor);
+    font-family: helvetica;
+    margin: 0;
+}
+
+
+
+body {
+    background: var(--bg);
+    margin-left: 20px;
+}
+
+p{
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#textRecuperarSenha{
+    margin-top: 200px;
+}
+
+input{
+    width: 500px;
+    height:30px;
+    margin-left: 20px;
+    border: none;
+    margin-top: 5px;
+    
+}
+h1{
+    text-align: center;
+    
+}
+
+button{
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: 50px;
+    color: var(--branco);
+    background-color: #FD460C;
+    border: none;
+    font-size: 20px;
+
+}
+.conf{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.login{
+    width: 550px;
+    height: 580px;
+    padding-top: 80px;
+    background-color: var(--rose);
+    margin-top: 50px;
+   
+}
+
+.texto{
+    font-size:30px;
+    margin-top: 200px;
+    color: #B30000;
+}
+
+#botaoerro{
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    margin-left: 250px;
+    margin-top: 0px;
+    color: var(--branco);
+    background-color: #FD460C;
+    border: none;
+    font-size: 20px;
+    }
+.erro{
+    width:600px ;
+    height:150px ;
+    background-color:var(--verde);
+    margin-top:100px ;
+    margin-left: 400px;
+
+
+}
+
+#mensagem{
+    padding-top: 50px;
+}
+
+h3{
+    text-align: center;
+    
+}

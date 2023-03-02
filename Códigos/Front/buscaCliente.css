@@ -1,0 +1,99 @@
+:root {
+    --rose: rgba(253, 12, 12, 0.2);
+    --rose2: #f2e4ecdb;
+    --black: #000000;
+    --laranja:#FD460C;
+    --branco:#FFFFFF;
+    --verde:#0CFDFD;
+    --pink:#FD0C0C33;
+
+
+}
+
+* {
+    color: var(--fontColor);
+    font-family: helvetica;
+    margin: 0;
+}
+body {
+    background: var(--rose2);
+    margin-left: 0px;
+}
+
+.header {
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+
+.livro {
+    margin-top: 37px;
+    padding-top: 10px;
+    text-align:center;
+    font-size: 18px;
+    width: 127px;
+    height: 35px;
+    text-decoration: none;
+}
+
+.vendas {
+    margin-top: 37px;
+    padding-top: 10px;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    text-decoration: none;
+
+}
+
+.cliente {
+    margin-top: 37px;
+    padding-top: 10px;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: var(--rose);
+}
+
+.link{
+    text-decoration: none;
+}
+.cabecalho {
+    width: auto;
+    height: 80px;
+    background-color: var(--rose);
+}
+
+.opcoes{
+    display: flex;
+    flex-direction: row;
+}
+
+p{
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 200px;
+}
+
+input{
+    width: 900px;
+    height:30px;
+    margin-left: 300px;
+    margin-top:1px;
+    border: none;
+    
+    
+}
+
+button{
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    margin-left: 700px;
+    margin-top: 100px;
+    color: var(--branco);
+    background-color: #FD460C;
+    border: none;
+    font-size: 20px;
